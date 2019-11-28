@@ -1,0 +1,2 @@
+# NiMus
+Event Management App
